@@ -2,4 +2,5 @@ test1 is modified from directory1
 test1 is modified from directory2
 test1 is modified again form directory1
 test1 is modified from directory2 again
+test1 is modified from feature branch 
 
